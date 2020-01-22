@@ -1,0 +1,9 @@
+sec-corner-circle{
+    width: 150px;
+    height: 150px;
+    top: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    background-color: aliceblue;
+}

@@ -1,0 +1,9 @@
+.box04{
+    width: 50%;
+    height: 50%;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    background-color: blue;
+}

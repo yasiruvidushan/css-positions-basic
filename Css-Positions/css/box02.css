@@ -1,0 +1,9 @@
+.box02{
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: auto;
+}
